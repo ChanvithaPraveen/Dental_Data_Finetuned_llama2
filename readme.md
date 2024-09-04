@@ -1,3 +1,4 @@
+![dental](https://github.com/user-attachments/assets/c49b6cc5-d926-4530-83a2-e32559a23080)
 # Dental Radiology Report Generator
 
 This project provides a Streamlit application for generating dental radiology reports using a fine-tuned language model. The model is fine-tuned on a dataset of dental findings to generate comprehensive radiology reports based on user input.
